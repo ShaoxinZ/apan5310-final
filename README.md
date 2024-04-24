@@ -1,4 +1,4 @@
-# apan5310-final
+# Apan5310-Final
 Thie is the term project submission for group 4 - spring 2024
 
 # ABC FoodMart
