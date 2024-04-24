@@ -12,5 +12,5 @@ Thie is the term project submission for group 4 - spring 2024
 ## Create Database Using PgAdmin
 Create database `create table.sql`
 
-<img src="5310 ER-Diagram (2).pdf">
+<img src="ER-Diagram.png">
 
