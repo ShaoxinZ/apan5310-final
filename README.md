@@ -17,3 +17,9 @@ Create database `create table.sql`
 
 ## ETL Process
 `Group4 ETL process.ipynb`
+
+## Insert Table
+`Inserting tables.ipynb`
+
+## Tables
+`tables.zip`
