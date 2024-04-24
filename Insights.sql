@@ -1,4 +1,5 @@
 ------------- Supplier Performance Analysis -------------
+
 -- Insight 1: Identify Trends in Supplier Performance Over Time
 SELECT
   se.supplier_id,
@@ -40,6 +41,7 @@ limit 20;
 
 	
 ------------- Store Traffic Analysis -------------
+
 -- Insight 4: Store Traffic Analysis
 SELECT z.zone_name, SUM(ft.customer_count) AS total_customers
 FROM foot_traffic ft
